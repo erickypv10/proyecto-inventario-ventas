@@ -1,0 +1,49 @@
+.contenedor {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin: 1.5rem 0;
+  flex-wrap: wrap;
+}
+
+.input {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #cbd5e0;
+  flex: 1;
+  min-width: 200px;
+}
+
+.select {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #cbd5e0;
+}
+
+.botonFiltrar {
+  padding: 0.5rem 1.5rem;
+  background-color: #3b82f6;
+  color: white;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.botonFiltrar:hover {
+  background-color: #2563eb;
+}
+
+.botonAgregar {
+  padding: 0.5rem 1.5rem;
+  background-color: #10b981; /* verde */
+  color: white;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.botonAgregar:hover {
+  background-color: #059669;
+}

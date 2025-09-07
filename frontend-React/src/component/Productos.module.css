@@ -1,0 +1,78 @@
+/* Contenedor general */
+.contenedor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh; /* ocupa toda la altura de la ventana */
+  background-color: #f0f4f8; /* aquí pones el color que quieras */
+}
+
+/* Tabla */
+.tabla {
+  border-collapse: collapse;
+  border: 1px solid #cbd5e0; /* gris */
+  width: 100%;
+  max-width: 800px;
+}
+
+/* Celdas */
+.celda {
+  border: 1px solid #cbd5e0;
+  padding: 0.5rem 1rem;
+  text-align: left;
+}
+
+/* Botón */
+.boton {
+  margin-top: 1.5rem;
+  padding: 0.75rem 2rem;
+  background-color: #3b82f6; /* azul */
+  color: white;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.boton:hover {
+  background-color: #2563eb; /* azul más oscuro al hover */
+}
+
+.titulo {
+  color: rgb(8, 4, 8);
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: center; /* o left si lo quieres a la izquierda */
+}
+
+
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+  max-width: 400px;
+  width: 100%;
+}
+
+.formulario input {
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  border: 1px solid #cbd5e0;
+}
+
+.formulario button {
+  padding: 0.5rem;
+  background-color: #10b981;
+  color: white;
+  font-weight: bold;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.formulario button:hover {
+  background-color: #059669;
+}
+
+
