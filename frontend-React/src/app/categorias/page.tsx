@@ -80,7 +80,6 @@ export default function Page() {
 
   return (
     <div>
-      {/* Barra superior y menú */}
       <Menu />
 
       {/* Barra de acciones ocupando todo el ancho */}

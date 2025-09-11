@@ -1,0 +1,101 @@
+/* Contenedor de la barra superior */
+.contenedor {
+  width: 100%;
+  max-width: 1000px;
+  background-color: #ffffff;
+  padding: 0.75rem 1rem;
+  border: 1px solid #cbd5e0;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+/* Filtros alineados */
+.filtros {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+/* Input de búsqueda */
+.input {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #cbd5e0;
+  border-radius: 0.4rem;
+  font-size: 0.9rem;
+  width: 220px;
+}
+
+/* Selects */
+.select {
+  padding: 0.45rem 0.75rem;
+  border: 1px solid #cbd5e0;
+  border-radius: 0.4rem;
+  font-size: 0.9rem;
+  background-color: #f8fafc;
+  cursor: pointer;
+}
+
+/* Botones */
+.botonFiltrar {
+  background-color: #0ea5e9; /* celeste */
+  color: white;
+  font-size: 0.85rem;
+  padding: 0.45rem 0.9rem;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.botonFiltrar:hover {
+  background-color: #0284c7;
+}
+
+.botonAgregar {
+  background-color: #10b981; /* verde */
+  color: white;
+  font-size: 0.85rem;
+  padding: 0.45rem 0.9rem;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.botonAgregar:hover {
+  background-color: #059669;
+}
+
+.botonEditar {
+  background-color: #3b82f6; /* azul */
+  color: white;
+  font-size: 0.85rem;
+  padding: 0.45rem 0.9rem;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.botonEditar:hover {
+  background-color: #2563eb;
+}
+
+.botonEliminar {
+  background-color: #ef4444; /* rojo */
+  color: white;
+  font-size: 0.85rem;
+  padding: 0.45rem 0.9rem;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.botonEliminar:hover {
+  background-color: #dc2626;
+}

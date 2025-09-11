@@ -518,3 +518,4 @@ D:\proyecto-inventario-ventas\backend-.Net-8\WebApplication2\WebApplication2\obj
 D:\proyecto-inventario-ventas\backend-.Net-8\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
 D:\proyecto-inventario-ventas\backend-.Net-8\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
 D:\proyecto-inventario-ventas\backend-.Net-8\WebApplication2\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+D:\proyecto-inventario-ventas\backend-.Net-8\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.sourcelink.json

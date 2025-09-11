@@ -1613,6 +1613,10 @@
           "proveedorId": {
             "type": "integer",
             "format": "int32"
+          },
+          "stock": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
@@ -1651,6 +1655,10 @@
           "proveedorNombre": {
             "type": "string",
             "nullable": true
+          },
+          "stock": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false

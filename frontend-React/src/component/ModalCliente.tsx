@@ -1,73 +1,92 @@
+"use client";
+
 import React, { useState, useEffect } from "react";
-import styles from "../component/ModalCliente.module.css";
 
 interface Cliente {
   id: number;
   nombre: string;
   telefono: string;
+  direccion: string;
 }
 
 interface ModalClienteProps {
   clienteEditar: Cliente | null;
-  onGuardar: (cliente: Omit<Cliente, "id">) => void;
-  onCerrar: () => void;
+  onClose: () => void;
+  onSave: (cliente: Omit<Cliente, "id">) => void;
 }
 
-const ModalCliente: React.FC<ModalClienteProps> = ({ clienteEditar, onGuardar, onCerrar }) => {
+const ModalCliente: React.FC<ModalClienteProps> = ({ clienteEditar, onClose, onSave }) => {
   const [nombre, setNombre] = useState("");
   const [telefono, setTelefono] = useState("");
+  const [direccion, setDireccion] = useState("");
 
+  // Si está editando, cargar datos en el formulario
   useEffect(() => {
     if (clienteEditar) {
       setNombre(clienteEditar.nombre);
       setTelefono(clienteEditar.telefono);
-    } else {
-      setNombre("");
-      setTelefono("");
+      setDireccion(clienteEditar.direccion);
     }
   }, [clienteEditar]);
 
-  const manejarGuardar = () => {
-    if (nombre.trim() === "" || telefono.trim() === "") {
-      alert("Todos los campos son obligatorios");
-      return;
-    }
-
-    onGuardar({ nombre, telefono });
-    onCerrar();
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    onSave({ nombre, telefono, direccion });
   };
 
   return (
-    <div className={styles.modalOverlay}>
-      <div className={styles.modalContenido}>
-        <h2>{clienteEditar ? "Editar Cliente" : "Agregar Cliente"}</h2>
-        <div className={styles.formGroup}>
-          <label>Nombre</label>
+    <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-40">
+      <div className="bg-white p-6 rounded shadow-lg w-96">
+        <h2 className="text-xl font-bold mb-4">
+          {clienteEditar ? "Editar Cliente" : "Nuevo Cliente"}
+        </h2>
+
+        <form onSubmit={handleSubmit} className="flex flex-col gap-4">
           <input
             type="text"
+            placeholder="Nombre"
             value={nombre}
             onChange={(e) => setNombre(e.target.value)}
-            placeholder="Ingrese el nombre"
+            className="border px-3 py-2 rounded"
+            required
           />
-        </div>
-        <div className={styles.formGroup}>
-          <label>Teléfono</label>
           <input
             type="text"
+            placeholder="Teléfono"
             value={telefono}
             onChange={(e) => setTelefono(e.target.value)}
-            placeholder="Ingrese el teléfono"
+            className="border px-3 py-2 rounded"
+            required
           />
-        </div>
-        <div className={styles.modalAcciones}>
-          <button className={styles.btnCancelar} onClick={onCerrar}>Cancelar</button>
-          <button className={styles.btnGuardar} onClick={manejarGuardar}>
-            {clienteEditar ? "Guardar Cambios" : "Agregar"}
-          </button>
-        </div>
+          <input
+            type="text"
+            placeholder="Dirección"
+            value={direccion}
+            onChange={(e) => setDireccion(e.target.value)}
+            className="border px-3 py-2 rounded"
+            required
+          />
+
+          <div className="flex justify-end gap-2">
+            <button
+              type="button"
+              onClick={onClose}
+              className="bg-gray-400 text-white px-4 py-2 rounded"
+            >
+              Cancelar
+            </button>
+            <button
+              type="submit"
+              className="bg-blue-600 text-white px-4 py-2 rounded"
+            >
+              Guardar
+            </button>
+          </div>
+        </form>
       </div>
     </div>
   );
 };
 
 export default ModalCliente;
+

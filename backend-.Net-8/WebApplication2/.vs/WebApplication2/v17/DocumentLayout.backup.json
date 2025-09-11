@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\dto\\productocreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dto\\productocreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\profiles\\clienteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\profiles\\clienteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\profiles\\ventasprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,14 +103,6 @@
       "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dto\\proveedorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -107,16 +115,8 @@
       "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\dto\\productocreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dto\\productocreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE4707B8-3495-4BAC-9092-DAB0B0074D2B}|WebApplication2\\WebApplication2.csproj|d:\\proyecto-inventario-ventas\\backend-.net-8\\webapplication2\\webapplication2\\models\\proveedorcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,33 +146,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VentasController.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\VentasController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\VentasController.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\VentasController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\VentasController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAmwEQAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:12:36.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ClientesController.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAmwHkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:16:01.492Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -181,45 +156,22 @@
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProveedorController.cs",
               "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\ProveedorController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\ProveedorController.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T15:36:15.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductoController.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T22:43:09.183Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Cliente.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Cliente.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:01:33.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Venta.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Venta.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Venta.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Venta.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T17:57:34.494Z"
+              "WhenOpened": "2025-07-21T22:38:38.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -231,203 +183,63 @@
               "RelativeToolTip": "WebApplication2\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T22:33:16.442Z"
+              "WhenOpened": "2025-07-21T22:33:16.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClienteProfile.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\ClienteProfile.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Profiles\\ClienteProfile.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\ClienteProfile.cs",
-              "RelativeToolTip": "WebApplication2\\Profiles\\ClienteProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProductoDto.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProductoDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dto\\ProductoDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:23:16.604Z"
+              "WhenOpened": "2025-07-22T21:05:39.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:43:09.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoCreateUpdateDto.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProductoCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProductoCreateUpdateDto.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProductoCreateUpdateDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dto\\ProductoCreateUpdateDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:28:15.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:16:01.492Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "VentasProfile.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\VentasProfile.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Profiles\\VentasProfile.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\VentasProfile.cs",
-              "RelativeToolTip": "WebApplication2\\Profiles\\VentasProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:24:08.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "VentasCreateUpdateDto.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\VentasCreateUpdateDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dto\\VentasCreateUpdateDto.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\VentasCreateUpdateDto.cs",
-              "RelativeToolTip": "WebApplication2\\Dto\\VentasCreateUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:19:39.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VentasDto.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\VentasDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dto\\VentasDto.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\VentasDto.cs",
-              "RelativeToolTip": "WebApplication2\\Dto\\VentasDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:19:24.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClienteCreateUpdateDto.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ClienteCreateUpdateDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ClienteCreateUpdateDto.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ClienteCreateUpdateDto.cs",
-              "RelativeToolTip": "WebApplication2\\Dto\\ClienteCreateUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:21:21.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClienteDto.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ClienteDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ClienteDto.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ClienteDto.cs",
-              "RelativeToolTip": "WebApplication2\\Dto\\ClienteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T18:19:50.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoriaProfile.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\CategoriaProfile.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Profiles\\CategoriaProfile.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\CategoriaProfile.cs",
-              "RelativeToolTip": "WebApplication2\\Profiles\\CategoriaProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:56:17.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProveedorPatchDto.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorPatchDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProveedorPatchDto.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorPatchDto.cs",
-              "RelativeToolTip": "WebApplication2\\Dto\\ProveedorPatchDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T15:39:11.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Proveedor.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Proveedor.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Proveedor.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Proveedor.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Proveedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T15:27:17.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "WebApplication2\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T22:36:34.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Categoria.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Categoria.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:40:31.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProveedorDto.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProveedorDto.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorDto.cs",
-              "RelativeToolTip": "WebApplication2\\Dto\\ProveedorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T15:31:09.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProveedorCreateDto.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorCreateDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProveedorCreateDto.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorCreateDto.cs",
-              "RelativeToolTip": "WebApplication2\\Dto\\ProveedorCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T15:31:36.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProveedorSimpleDto.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorSimpleDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProveedorSimpleDto.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorSimpleDto.cs",
-              "RelativeToolTip": "WebApplication2\\Dto\\ProveedorSimpleDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:04:20.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "WebApplication2.csproj",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
-              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
-              "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-21T22:33:39.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T22:38:38.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CategoriaController.cs",
@@ -439,7 +251,227 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\VentasController.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:12:36.907Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Venta.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Venta.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Venta.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:57:34.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Cliente.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Cliente.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:01:33.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteProfile.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\ClienteProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Profiles\\ClienteProfile.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\ClienteProfile.cs",
+              "RelativeToolTip": "WebApplication2\\Profiles\\ClienteProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:23:16.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentasProfile.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\VentasProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Profiles\\VentasProfile.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\VentasProfile.cs",
+              "RelativeToolTip": "WebApplication2\\Profiles\\VentasProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:24:08.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VentasCreateUpdateDto.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\VentasCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dto\\VentasCreateUpdateDto.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\VentasCreateUpdateDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dto\\VentasCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:19:39.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VentasDto.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\VentasDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dto\\VentasDto.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\VentasDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dto\\VentasDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:19:24.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClienteCreateUpdateDto.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ClienteCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ClienteCreateUpdateDto.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ClienteCreateUpdateDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dto\\ClienteCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:21:21.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ClienteDto.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ClienteDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dto\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:19:50.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriaProfile.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\CategoriaProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Profiles\\CategoriaProfile.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Profiles\\CategoriaProfile.cs",
+              "RelativeToolTip": "WebApplication2\\Profiles\\CategoriaProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:56:17.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProveedorPatchDto.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorPatchDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProveedorPatchDto.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorPatchDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dto\\ProveedorPatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:39:11.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Proveedor.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Proveedor.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:27:17.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:36:34.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Categoria.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Models\\Categoria.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T21:40:31.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProveedorDto.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProveedorDto.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dto\\ProveedorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:31:09.564Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "ProveedorCreateDto.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorCreateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProveedorCreateDto.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorCreateDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dto\\ProveedorCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T15:31:36.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProveedorSimpleDto.cs",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorSimpleDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProveedorSimpleDto.cs",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProveedorSimpleDto.cs",
+              "RelativeToolTip": "WebApplication2\\Dto\\ProveedorSimpleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:04:20.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
+              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T22:33:39.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "JwtService.cs",
               "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\JwtService.cs",
               "RelativeDocumentMoniker": "WebApplication2\\JwtService.cs",
@@ -451,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
@@ -463,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "CategoriaDto.cs",
               "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\CategoriaDto.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Dto\\CategoriaDto.cs",
@@ -472,30 +504,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T21:54:31.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ProductoDto.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProductoDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProductoDto.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProductoDto.cs",
-              "RelativeToolTip": "WebApplication2\\Dto\\ProductoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:05:39.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ProductoCreateUpdateDto.cs",
-              "DocumentMoniker": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProductoCreateUpdateDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Dto\\ProductoCreateUpdateDto.cs",
-              "ToolTip": "D:\\proyecto-inventario-ventas\\backend-.Net-8\\WebApplication2\\WebApplication2\\Dto\\ProductoCreateUpdateDto.cs",
-              "RelativeToolTip": "WebApplication2\\Dto\\ProductoCreateUpdateDto.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T21:28:15.788Z"
             },
             {
               "$type": "Document",
@@ -556,10 +564,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T21:55:04.979Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

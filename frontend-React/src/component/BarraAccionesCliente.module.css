@@ -1,0 +1,66 @@
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 15px;
+  align-items: center;
+}
+
+.input {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  flex: 1 1 200px;
+}
+
+.select {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  min-width: 150px;
+}
+
+.botonAgregar,
+.botonEditar,
+.botonEliminar,
+.botonFiltrar {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+
+.botonAgregar {
+  background-color: #6b46c1; /* morado */
+}
+
+.botonAgregar:hover {
+  background-color: #553c9a;
+}
+
+.botonEditar {
+  background-color: #3182ce; /* azul */
+}
+
+.botonEditar:hover {
+  background-color: #2b6cb0;
+}
+
+.botonEliminar {
+  background-color: #e53e3e; /* rojo */
+}
+
+.botonEliminar:hover {
+  background-color: #c53030;
+}
+
+.botonFiltrar {
+  background-color: #38a169; /* verde */
+}
+
+.botonFiltrar:hover {
+  background-color: #2f855a;
+}

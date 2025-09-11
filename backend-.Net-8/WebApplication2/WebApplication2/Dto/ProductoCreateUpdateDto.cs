@@ -18,6 +18,7 @@ namespace WebApplication2.Dto
 
         [Required]
         public int ProveedorId { get; set; }
+        public int stock { get; set; }
        
     }
 }

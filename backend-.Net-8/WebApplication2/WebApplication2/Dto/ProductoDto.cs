@@ -12,5 +12,6 @@
 
         public int ProveedorId { get; set; }
         public string ProveedorNombre { get; set; }
+        public int stock { get; set; }
     }
 }
